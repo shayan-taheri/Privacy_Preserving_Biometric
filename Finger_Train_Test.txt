@@ -1,0 +1,11 @@
+Users: 01-17 (except 14)
+
+For Index and Middle Fingers
+
+With and Without Cooperation
+
+Using the Fingerprints acquired by Thermal Sensors
+
+Train: Original/Fake --> Images 01 and 02
+
+Test: Original/Fake --> Images 03 and 04

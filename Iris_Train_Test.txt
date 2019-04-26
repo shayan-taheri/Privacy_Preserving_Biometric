@@ -1,0 +1,7 @@
+Train: P01 - P20 (Real = Left and Right) and P01 - P40 (Fake)
+
+20 * 2 * 10 + 40 * 10 = 400 + 400 = 800
+
+Test: P21 - P30 (Real) and P41 - P100 (Fake)
+
+10 * 2 * 10 + 60 * 10 = 800
