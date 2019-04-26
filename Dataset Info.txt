@@ -1,0 +1,25 @@
+Genuine System Evaluation:
+
+The system has 165 enrolled users.
+
+1) Fingerprint: 5 Instances of Right Thumb
+
+2) Iris: 5 Instances of Right Iris.
+
+------------------------------------------
+
+Fake Data Attack:
+
+The system security is tested for ?? users.
+
+1) Fingerprint:
+
+4 True Instances of Right Index Finger
+
+4/8 Fake Instances of Right Index Finger
+
+2) Iris:
+
+4 True Instances of Right Iris
+
+4/8 Fake Instances of Right Iris

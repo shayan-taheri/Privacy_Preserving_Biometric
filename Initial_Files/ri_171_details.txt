@@ -1,0 +1,4 @@
+layer_threshold = 53
+prune_threshold = 319
+features_before_prune = 37632
+features_after_prune = 852
